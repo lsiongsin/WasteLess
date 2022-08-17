@@ -14,6 +14,9 @@
 		BD1BD7A928AC078400D687B1 /* WasteLess.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD1BD7A728AC078400D687B1 /* WasteLess.xcdatamodeld */; };
 		BD1BD7AB28AC078500D687B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD1BD7AA28AC078500D687B1 /* Assets.xcassets */; };
 		BD1BD7AE28AC078500D687B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD1BD7AC28AC078500D687B1 /* LaunchScreen.storyboard */; };
+		BD1BD7B628AD2A1200D687B1 /* ShoppingList.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1BD7B528AD2A1200D687B1 /* ShoppingList.swift */; };
+		BD1BD7B828AD2A7C00D687B1 /* MyInventory.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1BD7B728AD2A7C00D687B1 /* MyInventory.swift */; };
+		BD1BD7BA28AD2A9A00D687B1 /* Recipes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1BD7B928AD2A9A00D687B1 /* Recipes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		BD1BD7AA28AC078500D687B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD1BD7AD28AC078500D687B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD1BD7AF28AC078500D687B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD1BD7B528AD2A1200D687B1 /* ShoppingList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingList.swift; sourceTree = "<group>"; };
+		BD1BD7B728AD2A7C00D687B1 /* MyInventory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyInventory.swift; sourceTree = "<group>"; };
+		BD1BD7B928AD2A9A00D687B1 /* Recipes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +67,9 @@
 				BD1BD79E28AC078400D687B1 /* AppDelegate.swift */,
 				BD1BD7A028AC078400D687B1 /* SceneDelegate.swift */,
 				BD1BD7A228AC078400D687B1 /* ViewController.swift */,
+				BD1BD7B528AD2A1200D687B1 /* ShoppingList.swift */,
+				BD1BD7B728AD2A7C00D687B1 /* MyInventory.swift */,
+				BD1BD7B928AD2A9A00D687B1 /* Recipes.swift */,
 				BD1BD7A428AC078400D687B1 /* Main.storyboard */,
 				BD1BD7AA28AC078500D687B1 /* Assets.xcassets */,
 				BD1BD7AC28AC078500D687B1 /* LaunchScreen.storyboard */,
@@ -143,7 +152,10 @@
 			files = (
 				BD1BD7A328AC078400D687B1 /* ViewController.swift in Sources */,
 				BD1BD7A928AC078400D687B1 /* WasteLess.xcdatamodeld in Sources */,
+				BD1BD7BA28AD2A9A00D687B1 /* Recipes.swift in Sources */,
+				BD1BD7B628AD2A1200D687B1 /* ShoppingList.swift in Sources */,
 				BD1BD79F28AC078400D687B1 /* AppDelegate.swift in Sources */,
+				BD1BD7B828AD2A7C00D687B1 /* MyInventory.swift in Sources */,
 				BD1BD7A128AC078400D687B1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
