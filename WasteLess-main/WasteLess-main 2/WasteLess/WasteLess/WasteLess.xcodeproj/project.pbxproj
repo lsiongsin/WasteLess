@@ -17,6 +17,7 @@
 		BD1BD7B628AD2A1200D687B1 /* ShoppingList.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1BD7B528AD2A1200D687B1 /* ShoppingList.swift */; };
 		BD1BD7B828AD2A7C00D687B1 /* MyInventory.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1BD7B728AD2A7C00D687B1 /* MyInventory.swift */; };
 		BD1BD7BA28AD2A9A00D687B1 /* Recipes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1BD7B928AD2A9A00D687B1 /* Recipes.swift */; };
+		BD1BD7BC28AD312A00D687B1 /* shoppingListData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1BD7BB28AD312A00D687B1 /* shoppingListData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		BD1BD7B528AD2A1200D687B1 /* ShoppingList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingList.swift; sourceTree = "<group>"; };
 		BD1BD7B728AD2A7C00D687B1 /* MyInventory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyInventory.swift; sourceTree = "<group>"; };
 		BD1BD7B928AD2A9A00D687B1 /* Recipes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipes.swift; sourceTree = "<group>"; };
+		BD1BD7BB28AD312A00D687B1 /* shoppingListData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shoppingListData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				BD1BD7A028AC078400D687B1 /* SceneDelegate.swift */,
 				BD1BD7A228AC078400D687B1 /* ViewController.swift */,
 				BD1BD7B528AD2A1200D687B1 /* ShoppingList.swift */,
+				BD1BD7BB28AD312A00D687B1 /* shoppingListData.swift */,
 				BD1BD7B728AD2A7C00D687B1 /* MyInventory.swift */,
 				BD1BD7B928AD2A9A00D687B1 /* Recipes.swift */,
 				BD1BD7A428AC078400D687B1 /* Main.storyboard */,
@@ -157,6 +160,7 @@
 				BD1BD79F28AC078400D687B1 /* AppDelegate.swift in Sources */,
 				BD1BD7B828AD2A7C00D687B1 /* MyInventory.swift in Sources */,
 				BD1BD7A128AC078400D687B1 /* SceneDelegate.swift in Sources */,
+				BD1BD7BC28AD312A00D687B1 /* shoppingListData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

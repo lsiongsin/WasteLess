@@ -11,11 +11,28 @@ class ShoppingList: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+        shoppingListData.dairyItem = ""
+        
         // Do any additional setup after loading the view.
     }
     
-
+    @IBOutlet weak var DairyBox: UITableView!
+    
+    @IBOutlet weak var ProduceBox: UITableView!
+    
+    @IBOutlet weak var ProteinBox: UITableView!
+    
+    @IBOutlet weak var GrainBox: UITableView!
+    
+//    class ShoppingList {
+//        static var dairyItem = ""
+//        ShoppingList.dairyItem = ""
+//        displayTextFirstVC.text = ShoppingList.dairyItem
+//        
+//    }
+    
+    
     /*
     // MARK: - Navigation
 
